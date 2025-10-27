@@ -1,0 +1,5 @@
+{
+  "name": "Exercices conversion de grandeurs",
+  "description": "Une application web pour générer des exercices de conversion pour les longueurs, masses, capacités, aires et volumes, avec des abaques visuels, des solutions détaillées et un export PDF.",
+  "requestFramePermissions": []
+}
